@@ -1,5 +1,5 @@
 {
-  "name": "acquia-pso/dst-entity-generate",
+  "name": "julianzgz/dst-entity-generate",
   "type": "drupal-module",
   "description": "Drush powered command line tool for working with Drupal Spec tool.",
   "version": "1.0.0",
